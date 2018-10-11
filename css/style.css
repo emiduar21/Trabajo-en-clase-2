@@ -1,0 +1,26 @@
+.navegador{
+	display: flex;
+	max-width: 100%;
+
+}
+
+.navegador li{
+	display: inline-block;
+	justify-content: flex-end;
+
+	
+	
+}
+
+.logo{
+	display: flex;
+	justify-content: center;
+}
+
+input[type=text] {
+    width: 120px;
+    height: 15px;
+    
+}
+
+
